@@ -64,7 +64,7 @@ https://www.veripool.org/verilator/
 
 ## Circuit Diagram in eSim
 The following is the schematic in eSim:
-![image](images/ckt_diagram.png)
+![image](images/ckt_diagram.jpeg)
 ## Verilog Code
 ```
 module guru_encoder(input [7:0] in,
@@ -136,9 +136,9 @@ plot v(out0)
 .end
 ```
 ## NgSpice Plots
-![image](images/out0.png)
-![image](images/out1.png)
-![image](images/out2.png)
+![image](images/out0.jpeg)
+![image](images/out1.jpeg)
+![image](images/out2.jpeg)
 
 ## Acknowlegdements
 1. FOSSEE, IIT Bombay
